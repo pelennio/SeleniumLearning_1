@@ -32,9 +32,9 @@ public class Array1 {
         ArrayList<Integer> arrlist = new ArrayList<Integer>(5);
 
         // use add() method to add elements in the list
-        arrlist.add(1111);
-        arrlist.add(2222);
-        arrlist.add(33333);
+        arrlist.add(1);
+        arrlist.add(2);
+        arrlist.add(3);
 
         // let us print all the elements available in list1
         System.out.println("Printing list1:");
