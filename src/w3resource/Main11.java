@@ -15,7 +15,5 @@ public class Main11 {
 //        System.out.println("last char: " + lastChar);
 
         String nothing = null;
-        System.out.println(nothing);
-        System.out.println("string length=" + nothing.length());
     }
 }
